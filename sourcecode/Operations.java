@@ -15,7 +15,7 @@ public class Operations
     }
     public static void multiply (int e, int f)
     {
-        int mul = e*f;
+        int mul = e * f;
         System.out.println("Multiplication is : " + mul);
     }
     public static void main(String[] args)
