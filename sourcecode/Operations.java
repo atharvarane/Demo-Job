@@ -21,5 +21,6 @@ public class Operations
         System.out.println("Hello, World!");
         total(2,2);
         minus(20,5);
+        multiply(2,5);
     }
 }
