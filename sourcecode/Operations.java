@@ -11,6 +11,11 @@ public class Operations
         int diff = c - d;
         System.out.println ("Difference is : " + diff);
     }
+    public static void multiply (int e, int f)
+    {
+        int mul = e*f;
+        System.out.println("Multiplication is : " + mul);
+    }
     public static void main(String[] args)
     {
         System.out.println("Hello, World!");
