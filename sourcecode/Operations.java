@@ -1,3 +1,5 @@
+import java.lang.Math;
+
 public class Operations
 {
     public static void total(int a, int b)
